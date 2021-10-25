@@ -1,2 +1,2 @@
-# GCS_Grupo6
+# Grupo 6 - Gestión de la configuración del Software
 
