@@ -1,3 +1,3 @@
 #Carpeta Desarrollo
-agregar proyecto
++ agregar proyecto
  + line base
