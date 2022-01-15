@@ -1,0 +1,18 @@
+CREATE PROCEDURE SETEliminarColaborador
+@ID AS VARCHAR(50)
+AS
+BEGIN
+
+DELETE FROM Cuenta WHERE Cuenta.ID = @ID
+
+COMMIT
+
+DELETE FROM Colaborador WHERE Colaborador.ID = @ID
+
+COMMIT
+
+DELETE FROM EntidadBase WHERE EntidadBase.ID = @ID
+
+COMMIT
+
+END
