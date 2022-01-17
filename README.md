@@ -1,5 +1,5 @@
 
-# GCS-G6
+# PROYECTO DE COMPRAS 
 - Curso: Gestion de la Configuración de Software
 - Docente: Wong Portillo, Lenis Rossi
 - Sección: 1
