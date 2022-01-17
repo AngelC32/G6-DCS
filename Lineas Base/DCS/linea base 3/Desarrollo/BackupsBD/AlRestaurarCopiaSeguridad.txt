@@ -1,0 +1,4 @@
+USE [ProyectoUNMSM]
+GO
+EXEC dbo.sp_changedbowner @loginame = N'unmsm', @map = false
+GO
