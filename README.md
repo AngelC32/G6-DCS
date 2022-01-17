@@ -13,7 +13,7 @@
 | Cespedes Flores | Sebastian |
 | De la Cruz Torre | Diego Alexander |
 | Gil Jauregui | Jesus Orlando |
-| Gonzales Broncano | Jose |
+| Gonzales Broncano | Jose Daniel |
 | Loaiza Sighuas | Leonardo Dario |
 | Porras Quispe | Marco Aurelio |
 | Ventura Villanueva | Cristhofer Moises |
