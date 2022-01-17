@@ -15,5 +15,5 @@
 | Gil Jauregui | Jesus Orlando |
 | Gonzales Broncano | Jose Daniel |
 | Loaiza Sighuas | Leonardo Dario |
-| Porras Quispe | Marco Aurelio |
+| Porras Quispe | Marco|
 | Ventura Villanueva | Cristhofer Moises |
